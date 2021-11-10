@@ -1,0 +1,4 @@
+*.dSYM
+*.o
+.vscode/**
+report.txt
